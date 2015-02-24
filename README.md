@@ -17,4 +17,5 @@ To install simply clone this repository using `git clone https://github.com/jtur
 
 # Attribution
 This program relies on the wonderful **Cat API** to grab its images. Show them some love at http://thecatapi.com
+
 Thanks to Johanna Valente for the inspiration

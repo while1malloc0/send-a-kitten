@@ -5,7 +5,7 @@ Have you ever wanted to send someone a kitten of a picture but didn't want to le
 **Send-A-Kitten** requires a local SMTP server to be running
 
 # Installation
-To install simply clone this repository using `git clone https://github.com/jturner30/send-a-kitten.git`. You can also make an alias to it using `echo "alias send_a_kitten=<directory where you cloned the repo>/send_a_kitten >> ~/.bashrc` (change to `~/.zshrc for zsh)
+To install simply clone this repository using `git clone https://github.com/jturner30/send-a-kitten.git`. You can also make an alias to it using `echo "alias send_a_kitten=<directory where you cloned the repo>/send_a_kitten" >> ~/.bashrc` (change to `~/.zshrc for zsh)
 
 # Usage
 ## Sending a random cat picture
